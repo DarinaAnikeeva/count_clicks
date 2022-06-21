@@ -142,7 +142,7 @@ dmypy.json
 .pytype/
 
 /.idea
-/.env
+/.env.txt
 
 # Cython debug symbols
 cython_debug/
