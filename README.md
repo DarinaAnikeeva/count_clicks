@@ -40,9 +40,8 @@ LOGNAME=kirill.m
 ```
 Введите ссылку: https://www.google.com/search?q=rjn&oq=rjn&i57j69i60l2j69i65.3247j0j7&sourceid=chrome&ie=UTF-8
 Битлинк:  bit.ly/3H9UC7R
- ```
 
-```Введите ссылку: bit.ly/3H9UC7R
+Введите ссылку: bit.ly/3H9UC7R
 Кликов по ссылке:  1
 ```
  
